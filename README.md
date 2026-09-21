@@ -1,4 +1,5 @@
-##User Manager — Spring Boot CRUD
+User Manager — Spring Boot CRUD
+
 학습용 사용자 관리 웹 애플리케이션입니다. 기존 Spring MVC + Hibernate 프로젝트를 Spring Boot로 마이그레이션하여 클래식 CRUD 시나리오를 최신 Spring Boot 스택으로 구현했습니다. (Habsida 교육 과정 과제)
 설명
 사용자 목록 조회, 등록, 수정, 삭제를 지원하는 관리자 화면이며 서버 측 검증을 적용했습니다.
